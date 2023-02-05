@@ -1,5 +1,20 @@
-# Replicate the Following Output
+# Project 10
 
-`Assests are Provided!`
+Using html and css
 
-![Project 4](./Real%20Estate%20-%20Desktop.png)
+## Skill gain from this Project
+
+- Detailed knowledge of html and css
+- How to use positions
+- How to use margin and padding
+- Learning px,rem,vh, etc
+- How to use flexbox
+
+## Time taken to complete this Project 
+
+ 8 hours
+
+ 
+
+ 
+ [Live link](https://taupe-bublanina-fa7558.netlify.app/)
