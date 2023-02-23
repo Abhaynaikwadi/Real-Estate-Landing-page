@@ -12,7 +12,7 @@ Using html and css
 
 ## Time taken to complete this Project 
 
- 9 hours
+ 8 hours
 
  
 
